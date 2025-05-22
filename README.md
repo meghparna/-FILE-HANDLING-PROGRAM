@@ -6,7 +6,6 @@
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
 
-
 ## I was assigned a task based on file handling using the C programming language. The objective of the task was to create a program that could perform basic file operations such as creating a file, writing data into it, reading data from it, and appending data. At first, I had a rough idea about file handling in theory, but this task gave me the opportunity to practically implement those concepts and understand how file systems work in a real-world programming context.
 
 To begin with, I started writing the program in VS Code, which is a source-code editor that supports C programming and integrates well with the GCC compiler. I created a file called file_handling.c where I wrote all the functions and logic. The program follows a menu-driven approach, where the user is asked to select an option from the given choices: write, read, append, or exit. Each option triggers a corresponding function that performs the selected file operation. I created three functions: writeToFile(), readFromFile(), and appendToFile() to handle the respective tasks, and a loop inside the main() function keeps the program running until the user chooses to exit.
