@@ -19,3 +19,6 @@ This task taught me a lot about how data is stored, accessed, and manipulated th
 The tools I used for this task include Visual Studio Code (VS Code) as the code editor, the GCC compiler for compiling the C program, and the Windows operating system as the platform to run everything. I used the terminal inside VS Code to compile the code using the gcc command and to run the generated .exe file.
 
 Overall, this internship task helped me build confidence in working with files in C. It gave me a better understanding of how to manage input and output in a program, how to structure code using functions, and how to troubleshoot common issues during compilation and execution. Most importantly, it made me more comfortable using development tools like VS Code and helped me understand how professional programming environments work. I look forward to applying this knowledge in future tasks and building more complex applications that involve file processing.
+
+#OUTPUUT
+![Image](https://github.com/user-attachments/assets/975e07c0-18da-48e3-a58b-33b5d2816d94)
